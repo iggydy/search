@@ -1372,7 +1372,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
       selectors: [["app-navbar"]],
       decls: 21,
       vars: 0,
-      consts: [[1, "navbar", "navbar-expand-lg", "navbar-dark", "bg-dark"], ["type", "button", "data-toggle", "collapse", "data-target", "#navbarSupportedContent", "aria-controls", "navbarSupportedContent", "aria-expanded", "false", "aria-label", "Toggle navigation", 1, "navbar-toggler"], [1, "navbar-toggler-icon"], ["href", "#", 1, "navbar-brand"], ["src", "assets/img/A-64.png", "width", "30", "height", "30", "alt", ""], ["id", "navbarSupportedContent", 1, "collapse", "navbar-collapse", 3, "submit"], [1, "navbar-nav", "mr-auto"], ["routerLinkActive", "active ", 1, "nav-item"], ["routerLink", "/home ", 1, "nav-link"], ["routerLink", "/heroes ", 1, "nav-link"], ["routerLink", "/about ", 1, "nav-link"], [1, "form-inline", "my-2", "my-lg-0"], ["type", "search ", "placeholder", "Search ", "aria-label", "Search ", 1, "form-control", "mr-sm-2", 3, "keyup.enter"], ["buscarTexto", ""], ["type", "button ", 1, "btn", "btn-outline-success", "my-2", "my-sm-0", 3, "click"]],
+      consts: [[1, "navbar", "navbar-expand-lg", "navbar-dark", "bg-dark"], ["type", "button", "data-toggle", "collapse", "data-target", "#navbarSupportedContent", "aria-controls", "navbarSupportedContent", "aria-expanded", "false", "aria-label", "Toggle navigation", 1, "navbar-toggler"], [1, "navbar-toggler-icon"], ["href", "#", 1, "navbar-brand"], ["src", "assets/img/A-64.png", "width", "30", "height", "30", "alt", ""], ["id", "navbarSupportedContent", 1, "collapse", "navbar-collapse", 3, "submit"], [1, "navbar-nav", "mr-auto"], ["routerLinkActive", "active", 1, "nav-item"], ["routerLink", "/home", 1, "nav-link"], ["routerLink", "/heroes", 1, "nav-link"], ["routerLink", "/about", 1, "nav-link"], [1, "form-inline", "my-2", "my-lg-0"], ["type", "search ", "placeholder", "Search ", "aria-label", "Search ", 1, "form-control", "mr-sm-2", 3, "keyup.enter"], ["buscarTexto", ""], ["type", "button ", 1, "btn", "btn-outline-success", "my-2", "my-sm-0", 3, "click"]],
       template: function NavbarComponent_Template(rf, ctx) {
         if (rf & 1) {
           var _r9 = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵgetCurrentView"]();
@@ -1413,7 +1413,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](11, "a", 9);
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](12, "Heroess");
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](12, "Heroes");
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
